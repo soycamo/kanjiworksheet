@@ -1,0 +1,9 @@
+# Kanji writing practice worksheet
+
+Uses the WaniKani API to generate a printable worksheet.
+
+To use:
+ - Download https://github.com/KanjiVG/kanjivg/releases and unpack to 'kanji' directory in this folder
+ - Set an environment variable called WANIKANI_API with your WaniKani API key
+ - Run `ruby kanji.rb` in your terminal
+ - Open `test.html` in your browser and print it
